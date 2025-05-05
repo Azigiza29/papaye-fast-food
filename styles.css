@@ -430,7 +430,35 @@ legend{
 
 /* Form Section End */
 
+/* Abut Section Start  */
+.homepage{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
 
+.home-container{
+    flex: 0 0 70%;
+    box-shadow: 1px 0 18px;
+    margin: 20px;
+    padding: 50px;
+   
+}
+
+.home-container p, b{
+    flex: 0 0 70%;
+    margin: 10px;
+}
+
+.home-container p{
+    margin-top: 0px;
+}
+
+.home-container b{
+    font-size: 14px;
+}
+/* Abut Section End */
 footer{
     position: relative;
     /* display: flex; */
