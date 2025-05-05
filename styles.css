@@ -176,6 +176,7 @@ ul li:hover ul.dropdn{
 
 .home-content h1,b{
     color: rgba(255, 0, 0, 0.692);
+    padding: 30px;
 }
 
 .home-text{
