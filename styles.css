@@ -96,7 +96,7 @@ ul li:hover ul.dropdn{
     justify-content: center;
     align-items: center;
     height: 48vh;
-    background: url('images/bg.jpg');
+    background: url('bg.jpg');
     background-position: center;
     background-size: cover;
     box-shadow: 0  3px 15px #fde400;
