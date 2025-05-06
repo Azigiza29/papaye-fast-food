@@ -166,14 +166,14 @@ ul li:hover ul.dropdn{
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
-    padding: 100px;
+    padding: 50px;
 }
 
 .home-content{
     flex: 0 0 48%;
     margin: 10px;
     padding: 0;
-    margin-left: 10px
+    margin-left: 5px
 }
 
 .home-content h1,b{
@@ -185,8 +185,8 @@ ul li:hover ul.dropdn{
     line-height: 25px;
     letter-spacing: 1.2px;
     border-radius: 8px;
-    padding: 40px;
-     margin-left: 10px
+    padding: 20px;
+     margin-left: 5px
     font-family: sans-serif, 'Times New Roman', Times, serif;
     box-shadow: 3px 4px 18px rgba(2, 2, 1, 0.966);
 }
@@ -196,13 +196,13 @@ ul li:hover ul.dropdn{
 }
 
 .home-content img{
-    width: 480px;
+    width: 430px;
     border-radius: 10px;
 }
 
  .showcase-image img{
-    width: 350px;
-    margin: 10px;
+    width: 320px;
+    margin: 5px;
     border-radius: 10px; 
     margin-left: 65px;
     flex-wrap: wrap;
@@ -567,14 +567,14 @@ footer{
 
 .home-container{
     flex-direction: column;
-    padding: 10px;
+    padding: 5px;
     box-shadow: 0 0 0px
 }
 
 .home-content{
     margin: 5px;
     margin-right: 0px;
-    padding: 10px;
+    padding: 5px;
 }
 
 .home-content h1,b{
@@ -587,11 +587,11 @@ footer{
     border-radius: 8px;
     font-family: Arial, Helvetica, sans-serif;
     box-shadow: 3px 4px 15px rgba(0, 0, 0, 0.5);
-     margin-right: 5px;
+    margin-right: 5px;
 }
 
 .home-content img{
-    width: 400px;
+    width: 430px;
 /*     padding: 10px; */
     border-radius: 10px;
 }
@@ -625,7 +625,7 @@ footer{
 }
 
 .branch-names .hover{
-    font-size: 20px;
+    font-size: 18px;
     padding: 0;
     box-shadow: 0 0 18px white;
 }
@@ -650,15 +650,15 @@ footer{
 .footer-container{
     flex: 1 1 100%;
     flex-wrap: wrap;
-    padding: 30px;
+    padding: 10px;
     box-shadow: 0 4px 18px;
-    margin: 10px;
+    margin: 5px;
 
 }
 
 .foot-img img{
     position: absolute;
-    width: 200px;
+    width: 180px;
     top: 60%;
     right: 50px;
     padding: 20px;
