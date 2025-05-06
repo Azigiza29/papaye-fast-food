@@ -166,7 +166,7 @@ ul li:hover ul.dropdn{
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
-    padding: 30px;
+    padding: 100px;
 }
 
 .home-content{
@@ -185,7 +185,7 @@ ul li:hover ul.dropdn{
     line-height: 25px;
     letter-spacing: 1.2px;
     border-radius: 8px;
-    padding: 50px;
+    padding: 40px;
      margin-left: 10px
     font-family: sans-serif, 'Times New Roman', Times, serif;
     box-shadow: 3px 4px 18px rgba(2, 2, 1, 0.966);
