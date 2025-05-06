@@ -563,11 +563,12 @@ footer{
 .home-container{
     flex-direction: column;
     padding: 10px;
+    box-shadow: 0 0 0px
 }
 
 .home-content{
     margin: 5px;
-    margin-right: 10px;
+/*     margin-right: 10px; */
 }
 
 .home-content h1,b{
