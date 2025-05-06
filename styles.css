@@ -585,8 +585,8 @@ footer{
 }
 
 .home-content img{
-    width: 480px;
-    padding: 10px;
+    width: 450px;
+/*     padding: 10px; */
     border-radius: 10px;
 }
 
