@@ -542,6 +542,11 @@ footer{
     ul li ul.dropdn{
         background-color: red;
     }
+.hero{
+    width: 100%;
+}
+
+    
 
 .hero-container h1{
     font-size: 3rem;
