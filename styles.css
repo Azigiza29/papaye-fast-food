@@ -12,6 +12,7 @@ p{
 
 h1, h2, h3{
     font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 20px;
 }
 
 body{
@@ -96,12 +97,11 @@ ul li:hover ul.dropdn{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    height: 48vh;
     background: url('bg.jpg');
     background-position: center;
     background-size: cover;
     box-shadow: 0  3px 15px #fde400;
-    z-index: 2;
+    z-index: -2;
 }
 
 .hero::before{
@@ -188,10 +188,10 @@ ul li:hover ul.dropdn{
     line-height: 25px;
     letter-spacing: 1.2px;
     border-radius: 8px;
-    padding: 5px;
-     margin-left: 5px
+    padding: 8px;
     font-family: sans-serif, 'Times New Roman', Times, serif;
     box-shadow: 3px 4px 18px rgba(2, 2, 1, 0.966);
+    margin-bottom: 30px;
 }
 
 .home-text:hover{
@@ -204,19 +204,19 @@ ul li:hover ul.dropdn{
     animation: scamImage 8s ease-in-out infinite;
 }
 
-@keyframs scamImage {
+@keyframs scamImage{
     0%{
     box-shadow: 0 0 10px red;
     }
-50%{
+    50%{
     box-shadow: 0 0 10px yellow;
-}
-80%{
+    }
+    80%{
     box-shadow: 0 0 10px green;
-}
-100%{
+    }
+    100%{
     box-shadow: 0 0 10px blue;
-}
+    }
 }
 
  .showcase-image img{
@@ -230,7 +230,7 @@ ul li:hover ul.dropdn{
 
 .showcase-image img:hover{
      box-shadow: 0  3px 15px #000000;
-     transform: scale(1.3);
+     transform: scale(1.5);
      transition: all 0.3s ease-in-out;
 }
 
