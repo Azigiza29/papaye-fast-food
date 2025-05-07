@@ -91,6 +91,7 @@ ul li:hover ul.dropdn{
 
 .hero{
     position: relative;
+    width:100%
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -166,11 +167,11 @@ ul li:hover ul.dropdn{
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
-    padding: 10px;
+    padding: 5px;
 }
 
 .home-content{
-    flex: 0 0 48%;
+    flex: 0 0 32%;
     margin: 5px;
     padding: 0;
     margin-left: 5px
@@ -196,12 +197,12 @@ ul li:hover ul.dropdn{
 }
 
 .home-content img{
-    width: 430px;
+    width: 400px;
     border-radius: 10px;
 }
 
  .showcase-image img{
-    width: 320px;
+    width: 300px;
     margin: 5px;
     border-radius: 10px; 
     margin-left: 65px;
@@ -217,7 +218,7 @@ ul li:hover ul.dropdn{
 
 .papaye-image{
     width: 100%;
-    padding: 8px;
+    padding: 5px;
 }
 
 /* Home End */
@@ -339,7 +340,7 @@ ul li:hover ul.dropdn{
 
 .hover{
     border-radius: 10px;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -374,7 +375,7 @@ legend{
     color: #ffffff;
     font-weight: 500;
     background-color: dimgrey;
-    padding: 10px;
+    padding: 5px;
     border-radius: 5px;
 }
 
@@ -442,7 +443,7 @@ legend{
     align-items: center;
 }
 
-.home-container{
+.home-contn{
     flex: 0 0 70%;
     box-shadow: 1px 0 18px;
     margin: 10px;
@@ -450,16 +451,16 @@ legend{
    
 }
 
-.home-container p, b{
+.home-contn p, b{
     flex: 0 0 70%;
     margin: 5px;
 }
 
-.home-container p{
+.home-contn p{
     margin-top: 0px;
 }
 
-.home-container b{
+.home-contn b{
     font-size: 14px;
 }
 /* Abut Section End */
@@ -558,7 +559,7 @@ footer{
 
 .showcase-image img{
     flex-wrap: wrap;
-    width: 200px;
+    width: 100px;
     margin-left: 20px;
     border-radius: 10px;
     margin-top: 40px; 
@@ -572,6 +573,7 @@ footer{
 }
 
 .home-content{
+    flex: 0 0 100%;
     margin: 5px;
     margin-right: 0px;
     padding: 5px;
@@ -582,6 +584,7 @@ footer{
 }
 
 .home-text{
+    flex: 0 0 100%;
     line-height: 25px;
     letter-spacing: 1.2px;
     border-radius: 8px;
@@ -591,7 +594,7 @@ footer{
 }
 
 .home-content img{
-    width: 430px;
+    width: 200px;
 /*     padding: 10px; */
     border-radius: 10px;
 }
@@ -658,7 +661,7 @@ footer{
 
 .foot-img img{
     position: absolute;
-    width: 180px;
+    width: 100px;
     top: 60%;
     right: 50px;
     padding: 20px;
