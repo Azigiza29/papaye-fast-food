@@ -166,26 +166,26 @@ ul li:hover ul.dropdn{
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
-    padding: 50px;
+    padding: 10px;
 }
 
 .home-content{
     flex: 0 0 48%;
-    margin: 10px;
+    margin: 5px;
     padding: 0;
     margin-left: 5px
 }
 
 .home-content h1,b{
     color: rgba(255, 0, 0, 0.692);
-    padding: 30px;
+    padding: 5px;
 }
 
 .home-text{
     line-height: 25px;
     letter-spacing: 1.2px;
     border-radius: 8px;
-    padding: 20px;
+    padding: 5px;
      margin-left: 5px
     font-family: sans-serif, 'Times New Roman', Times, serif;
     box-shadow: 3px 4px 18px rgba(2, 2, 1, 0.966);
@@ -217,7 +217,7 @@ ul li:hover ul.dropdn{
 
 .papaye-image{
     width: 100%;
-    padding: 10px;
+    padding: 8px;
 }
 
 /* Home End */
@@ -235,7 +235,7 @@ ul li:hover ul.dropdn{
 } */
 
 .contact-header{
-    padding: 10%;
+    padding: 10px;
     flex-wrap: wrap;
     margin-top: 50px;
     box-shadow: 3px 1px 15px;
@@ -247,7 +247,7 @@ ul li:hover ul.dropdn{
 }
 
 .contact-container{
-    padding: 30px;
+    padding: 10px;
 }
 
 .contact-header h1{
@@ -259,9 +259,9 @@ ul li:hover ul.dropdn{
 
 .contact-header p{
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     background-color: #5a555583;
-    padding: 5%;
+    padding: 5px;
     font-family: sans-serif;
     color: yellow;
     border-radius: 10px;
@@ -275,7 +275,7 @@ ul li:hover ul.dropdn{
 .contact-infor{
    display: inline-block;
    flex-wrap: wrap;
-   margin: 10%;
+   margin: 5px;
    font-family: 'Times New Roman', Times, serif;
 }
 
@@ -286,60 +286,60 @@ ul li:hover ul.dropdn{
 }
 
 .contact-infor li, ul{
-    margin: 10px;
-    font-size: 18px;
+    margin: 5px;
+    font-size: 16px;
 }
 .one{
     background-color: #000000;
     color: #ffffff;
-    padding: 20px;
+    padding: 10px;
 }
 .two{
     background: #ffffff;
     color: #000;
-    padding: 20px;
+    padding: 10px;
 }
 .three{
     background: yellow;
     color: red;
-    padding: 20px;
+    padding: 10px;
 }
 .four{
     background-color: #205ad8c9;
     color: #ffffff;
-    padding: 20px;
+    padding: 10px;
 }
 .five{
     background: tomato;
     color: #ffffff;
-    padding: 20px;
+    padding: 10px;
 }
 .six{
     background-color: greenyellow;
-    padding: 20px;
+    padding: 10px;
 }
 .seven{
     background: purple;
     color: #ffffff;
-    padding: 20px;
+    padding: 10px;
 }
 .eight{
     background-color: aquamarine;
-    padding: 20px;
+    padding: 10px;
 }
 .nine{
     background-color: chocolate;
     color: #ffffff;
-    padding: 20px;
+    padding: 10px;
 }
 .ten{
     background-color: cyan;
-    padding: 20px;
+    padding: 10px;
 }
 
 .hover{
     border-radius: 10px;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
 
@@ -352,7 +352,7 @@ ul li:hover ul.dropdn{
 
 /* Form Section Start */
 .form-section{
-    padding: 5%;
+    padding: 5px;
     height: 100vh;
 }
 
@@ -368,7 +368,7 @@ fieldset{
 }
 
 legend{
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 20px;
     margin-left: 43%;
     color: #ffffff;
@@ -387,7 +387,7 @@ legend{
     margin-left: 25%;
     width: 50%;
     height: 45px;
-    padding: 10px;
+    padding: 5px;
     border-radius: 10px;
     background: transparent;
     outline: none;
@@ -399,7 +399,7 @@ legend{
     margin-left: 25%;
     border-radius: 8px;
     outline: none;
-    padding: 10px;
+    padding: 5px;
     font-size: 14px;
     margin-top: 10px;
 }
@@ -445,14 +445,14 @@ legend{
 .home-container{
     flex: 0 0 70%;
     box-shadow: 1px 0 18px;
-    margin: 20px;
-    padding: 50px;
+    margin: 10px;
+    padding: 10px;
    
 }
 
 .home-container p, b{
     flex: 0 0 70%;
-    margin: 10px;
+    margin: 5px;
 }
 
 .home-container p{
@@ -609,7 +609,7 @@ footer{
     width: 39%;
     list-style: decimal;
     margin-left: 0;
-    margin: 10px;
+    margin: 5px;
     font-size: 12px;
 }
 
@@ -625,7 +625,7 @@ footer{
 }
 
 .branch-names .hover{
-    font-size: 18px;
+    font-size: 14px;
     padding: 0;
     box-shadow: 0 0 18px white;
 }
