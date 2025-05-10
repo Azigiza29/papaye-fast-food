@@ -89,32 +89,32 @@ ul li:hover ul.dropdn{
 /* Hero Section Start  */
 
 .hero{
-    /*position: relative;
+    position: relative;
     width:100%
     height:100vh
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background: url('bg.jpg');
+   /* background: url('bg.jpg');
     background-position: center;
-    background-size: cover;*/
-    box-shadow: 0  3px 15px #fde400;
+    background-size: cover;
+    box-shadow: 0  3px 15px #fde400;*/
 }
 
-.hero::before{
+/*.hero::before{
     position: absolute;
     content: "";
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background: #00000099;
+    background: #00000099;*/
 }
 
-.hero-container{
+/*.hero-container{
     z-index: 1;
-}
+}*/
 
 .hero-container h1{
     font-size: 5rem;
